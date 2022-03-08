@@ -1,4 +1,4 @@
-package it.unibo.radarSystem22.domain;
+package it.unibo.radarSystem22.interfaces;
 
 public interface IRadarDisplay {
 	
