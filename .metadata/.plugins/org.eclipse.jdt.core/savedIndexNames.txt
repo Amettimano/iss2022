@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+/home/alessandro/Scrivania/miaIssLab2022/.metadata/.plugins/org.eclipse.jdt.core
+4155645675.index
+2641425241.index
+1317128114.index
+2473546816.index
+3024771428.index
+1233941198.index
+886309292.index
+236889206.index
+1437730993.index
+3765067795.index
+2742547764.index
+3204645390.index
+1705556767.index
+4240839475.index
+2971131586.index
+2540607589.index
+331160991.index
+3924416690.index
+2521540479.index
+721031586.index
+4099525063.index
